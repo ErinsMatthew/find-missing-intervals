@@ -1,0 +1,17 @@
+{
+  "name": "find-missing-intervals",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "mwf",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "moment": "^2.29.4",
+    "sqlite3": "^5.0.8"
+  }
+}

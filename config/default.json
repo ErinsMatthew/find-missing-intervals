@@ -1,0 +1,11 @@
+{
+    "database": {
+        "file": "speedtest.db",
+        "query": "SELECT timestamp FROM results;",
+        "column": "timestamp"
+    },
+    "minTimestamp": "2022-07-06T00:04:41Z",
+    "increment": {
+        "minutes": 20
+    }
+}
